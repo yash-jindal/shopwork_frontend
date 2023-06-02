@@ -1,0 +1,13 @@
+.updateEntry{
+    color: white;
+    background-color: #02fa02;
+    border: none;
+    margin-top: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+.update{
+    width: 100%;
+}

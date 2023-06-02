@@ -1,0 +1,38 @@
+.button{
+    color: white;
+    background-color: #02fa02;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 130px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.custTable{
+    margin-top: 50px;
+}
+
+.updateButton{
+    background-color: #fcfc03;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.deleteButton{
+    background-color: #fa4b4b;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.custName:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.entryButton{
+    background-color: #49a6f3;
+    border-radius: 5px;
+    padding: 5px;
+}

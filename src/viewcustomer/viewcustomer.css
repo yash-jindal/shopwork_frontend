@@ -1,0 +1,38 @@
+body{
+    padding: 50px;
+}
+
+.red{
+    background-color: #f56462;
+}
+
+.green{
+    background-color: #92f795;
+}
+
+.custTable{
+    text-align: center;
+}
+
+#result{
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+}
+
+.cust{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.buttons{
+    color: white;
+    background-color: #02fa02;
+    border: none;
+    margin-top: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
